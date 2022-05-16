@@ -1,0 +1,184 @@
+{
+
+   "contentType":"Bas",
+   "contentIndex":5,
+   "courseunit": "Basic and Technical English",
+   "questions":[
+      {
+         "title":"HAMMER significa:",
+         "result":1,
+         "options":[
+            "Picareta.",
+            "Martelo.",
+            "Maça.",
+            "Punção"
+         ],
+         "number":0
+      },
+      {
+         "title":"PROPELLER GOVERNOR significa:",
+         "result":3,
+         "options":[
+            "Passo da hélice.",
+            "Manete de hélice.",
+            "Ângulo de hélice.",
+            "Governador de hélice."
+         ],
+         "number":1
+      },
+      {
+         "title":"OPEN-END-WRENCH significa:",
+         "result":1,
+         "options":[
+            "Chave fresada.",
+            "Chave de boca.",
+            "Caixa de ar.",
+            "Chave de fenda."
+         ],
+         "number":2
+      },
+      {
+         "title":"Trem de pouso:",
+         "result":3,
+         "options":[
+            "Take-off train.",
+            "Landing train.",
+            "Take-off gear.",
+            "Landing gear."
+         ],
+         "number":3
+      },
+      {
+         "title":"RUDDER significa:",
+         "result":3,
+         "options":[
+            "Profundor.",
+            "Estabilizador.",
+            "Asa.",
+            "Leme."
+         ],
+         "number":4
+      },
+      {
+         "title":"SCREWDRIVER:",
+         "result":2,
+         "options":[
+            "Tocapinos.",
+            "Eixo acionador.",
+            "Chave de fenda.",
+            "Chave de boca."
+         ],
+         "number":5
+      },
+      {
+         "title":"Wrench:",
+         "result":1,
+         "options":[
+            "Ferramenta.",
+            "Chave.",
+            "Macaco.",
+            "Porca"
+         ],
+         "number":6
+      },
+      {
+         "title":"NOSE significa:",
+         "result":0,
+         "options":[
+            "Nariz.",
+            "Bico.",
+            "Fuselagem.",
+            "Trem de pouso."
+         ],
+         "number":7
+      },
+      {
+         "title":"CRANKSHAFT significa:",
+         "result":3,
+         "options":[
+            "Virabrequim.",
+            "Eixo de comando de válvulas.",
+            "Turboeixo.",
+            "Eixo de manivelas."
+         ],
+         "number":8
+      },
+      {
+         "title":"WASHER:",
+         "result":0,
+         "options":[
+            "Arruela.",
+            "Rebite.",
+            "Porca.",
+            "Punção."
+         ],
+         "number":9
+      },
+      {
+         "title":"CAMSHAFT:",
+         "result":2,
+         "options":[
+            "Turboeixo.",
+            "TurboHélice.",
+            "Eixo de comando.",
+            "Eixo de manivelas."
+         ],
+         "number":10
+      },
+      {
+         "title":"NUT:",
+         "result":2,
+         "options":[
+            "Pino",
+            "Arruela",
+            "Porca",
+            "Arame"
+         ],
+         "number":11
+      },
+      {
+         "title":"WING:",
+         "result":2,
+         "options":[
+            "Vento.",
+            "Estabilizador.",
+            "Asa.",
+            "Parabrisas."
+         ],
+         "number":12
+      },
+      {
+         "title":"Engine:",
+         "result":1,
+         "options":[
+            "Vela.",
+            "Motor.",
+            "Arruela.",
+            "Engrenagem."
+         ],
+         "number":13
+      },
+      {
+         "title":"Fuel:",
+         "result":2,
+         "options":[
+            "Completo.",
+            "Sentir.",
+            "Combustível.",
+            "Gasolina"
+         ],
+         "number":14
+      },
+      {
+         "title":"Gearbox:",
+         "result":3,
+         "options":[
+            "Engrenagem.",
+            "Manivela.",
+            "Redução.",
+            "Caixa de engrenagens."
+         ],
+         "number":15
+      }
+   ]
+}

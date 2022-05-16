@@ -1,0 +1,397 @@
+{
+   "contentType":"Bas",
+   "contentIndex":21,
+   "courseunit":"First Aid",
+   "questions":[
+      {
+         "title":" Luva, máscaras, oculos e avental são conhecidos em primeiros socorros como:",
+         "result":2,
+         "options":[
+            "EPA",
+            "EPR",
+            "EPI ",
+            "ABC"
+         ],
+         "number":0
+      },
+      {
+         "title":"A RCP deve ser realizada em uma sequência de:",
+         "result":3,
+         "options":[
+            "15 X 2",
+            "5 X 1",
+            "30 X 3",
+            "30 X 2"
+         ],
+         "number":1
+      },
+      {
+         "title":"Uma vétima que apresenta 120 batimentos cardíacos por minuto estão em:",
+         "result":1,
+         "options":[
+            " Hipôxia",
+            "Taquicardia ",
+            "Bradicardia",
+            "Taquipinoia"
+         ],
+         "number":2
+      },
+      {
+         "title":"Qual o segundo anel da sobrevivência da Associaçãoo Americana do Coração (AHA)?",
+         "result":0,
+         "options":[
+            "RCP ",
+            "SEM",
+            "SAV",
+            "Desfibrilação"
+         ],
+         "number":3
+      },
+      {
+         "title":"Tapas nas costas (tapotagens) é uma forma de desobstrução das vias aéreas em:",
+         "result":2,
+         "options":[
+            "Adultos",
+            "Crianças ",
+            "Lactentes",
+            "Ninguém"
+         ],
+         "number":4
+      },
+      {
+         "title":"Qual sequência de avaliação para atender uma vétima clínica:",
+         "result":2,
+         "options":[
+            "Consciência, pulso, respiração",
+            "Hemorragias, consciência e circulação",
+            "Consciência, respiração e circulação",
+            "Hemorragias, consciência e respiração "
+         ],
+         "number":5
+      },
+      {
+         "title":"O cuidado principal de um socorrista é:",
+         "result":1,
+         "options":[
+            "Abrir a via aérea",
+            "Manter sua segurança ",
+            "Acionar o Bombeiro",
+            "Realizar a RCP"
+         ],
+         "number":6
+      },
+      {
+         "title":"Em caso de convulsão não devo:",
+         "result":0,
+         "options":[
+            "Puxar a língua",
+            "Lateralizar a vítima ",
+            "Proteger a cabeça",
+            " Manter a segurança do local"
+         ],
+         "number":7
+      },
+      {
+         "title":"Uma adulto encontra-se em parada cardíaca após a avaliação do pulso você:",
+         "result":0,
+         "options":[
+            "Inicia as compressões",
+            "Chama um médico ",
+            "Avaliar a respiração",
+            "Controlar hemorragias"
+         ],
+         "number":8
+      },
+      {
+         "title":"O terceiro anel da cadeia de sobrevivência da American Heart Association é:",
+         "result":0,
+         "options":[
+            "Desfibrilação precoce",
+            "Acesso rápido",
+            "Cuidados avançados ",
+            "RCP precoce"
+         ],
+         "number":9
+      },
+      {
+         "title":"Hematoma em volta dos olhos, dor de cabeça, pupilas desiguais, náuseas e vômitos são sinais característicos de:",
+         "result":3,
+         "options":[
+            " Angina de peito",
+            "AVC ",
+            "IAM",
+            "Traumatismo craniano"
+         ],
+         "number":10
+      },
+      {
+         "title":"Em caso de parada cardiorrespiratória em uma criança devo realizar a RCP numa frequência de:",
+         "result":3,
+         "options":[
+            "5X2",
+            "15X2 ",
+            "15X1",
+            "30X2"
+         ],
+         "number":11
+      },
+      {
+         "title":"Em caso de um objeto transfixado no corpo devo:",
+         "result":1,
+         "options":[
+            "Remover o objeto",
+            "Não devo remover o objeto ",
+            "Removo desde que imediatamente realizo uma compressão local",
+            "Faço um curativo oclusivo de três pontas"
+         ],
+         "number":12
+      },
+      {
+         "title":" É uma técnica de controle de hemorragia:",
+         "result":2,
+         "options":[
+            "Pó de café",
+            "Teia de aranha",
+            "Pressão local ",
+            "Lavação"
+         ],
+         "number":13
+      },
+      {
+         "title":"Dor no centro do peito irradiando para o braço esquerdo, pescoço e mandíbula levando a uma parada cardíaca é:",
+         "result":0,
+         "options":[
+            "Infarto do miocárdio ",
+            "Angina de peito",
+            "AVC",
+            "Insuficiência cardíaca congestiva"
+         ],
+         "number":14
+      },
+      {
+         "title":"Os desmaios ocorrem pela diminuição de sangue no cérebro, que pode ser causada por falta de alimentação, fadiga, permanência em lugares abafados, emoção forte ou perda de sangue. Considerando-se essa informação, em caso de desmaio, deve-se:",
+         "number":15,
+         "result":2,
+         "options":[
+            "Posicionar as mãos sobre o umbigo da vítima, fazendo cinco compressões para dentro e para cima;",
+            "Abraçar a vítima pelas costas, posicionando as mãos acima do umbigo dela;",
+            "Colocar a vítima em decúbito dorsal com os pés ligeiramente elevados;",
+            "Puxar a orelha da vítima para trás e dirigir um facho de luz para o canal auditivo;",
+            "Aplicar compressa fria ou saco de gelo sobre a pele."
+         ]
+      },
+      {
+         "title":"Na identificação dos sinais vitais, para avaliar se a vítima está viva ou não, deve-se:",
+         "number":16,
+         "result":1,
+         "options":[
+            "Verificar se a vítima está salivando em excesso e com suspeita de hemorragia interna;",
+            "Verificar o batimento cardíaco, respiração e o movimento do tórax;",
+            "Verificar a situação da língua, a respiração e sangramentos pelo corpo;",
+            "Observar se algum local da perna está arroxeado e gelado."
+         ]
+      },
+      {
+         "title":"A massagem cardíaca é utilizada para:",
+         "number":17,
+         "result":1,
+         "options":[
+            "Salvar uma vítima que tem pulsação;",
+            "Salvar uma vítima sofreu uma parada cardíaca;",
+            "Reanimação de uma pessoa que sofreu quedas;",
+            "Reanimar uma pessoa que desmaiou, mas respira e apresenta pulsação."
+         ]
+      },
+      {
+         "title":"Em um acidente em que há uma vítima tomando um choque elétrico o primeiro procedimento é:",
+         "number":18,
+         "result":2,
+         "options":[
+            "Puxar a vítima para longe do curto-circuito com qualquer material disponível;",
+            "Enfiar o dedo na garganta e puxar a língua da vítima para que ela não a engula;",
+            "Desligar a corrente elétrica antes de qualquer procedimento;",
+            "Esperar algum socorrista de plantão, pois salvamento não é o serviço de um trabalhador autorizado a atuar em instalações elétricas."
+         ]
+      },
+      {
+         "title":"Confirmada obstrução das vias aéreas por corpo estranho, o procedimento para desobstrução em um adulto consciente é",
+         "number":19,
+         "result":1,
+         "options":[
+            "Bater duas ou mais vezes nas costas até a desobstrução total;",
+            "Abraçar a pessoa engasgada pelo abdômen, posicione uma das mãos sobre o epigástrico e com a outra mão pressione a primeira mão, ao mesmo tempo que realiza um movimento de gancho, como se fosse levantar a pessoa.",
+            "Posicionar-se na parte anterior bater nas costas até a desobstrução;",
+            "Realizar manobras de compressões nas costas até a desobstrução total da via."
+         ]
+      },
+      {
+         "title":"Ao presenciar um funcionário engasgar-se com uma bala e constatando que o mesmo está consciente, deve-se prioritariamente, realizar a:",
+         "number":20,
+         "result":2,
+         "options":[
+            "Manobra de Valvasa;",
+            "PCR;",
+            "Manobra de Heimlich;",
+            "Manobra de Cincinnatti."
+         ]
+      },
+      {
+         "title":"Constituem condutas imediatas adotadas no atendimento a uma vítima de choque elétrico:",
+         "number":21,
+         "result":2,
+         "options":[
+            "Verificar se a vítima está respirando;",
+            "Realizar o transporte da vítima;",
+            "Desligar a corrente elétrica antes de tocar na vítima;",
+            "Imobilizar o membro suspeita de fratura."
+         ]
+      },
+      {
+         "title":"Ao identificar uma vítima de queimadura de primeiro grau, podemos citar que a mesma apresenta a seguinte característica em sua pele:",
+         "number":22,
+         "result":1,
+         "options":[
+            "Bolhas e vermelhidão;",
+            "Somente vermelhidão e dor local;",
+            "Destruição dos tecidos e bolhas;",
+            "Dor local e destruição dos tecidos."
+         ]
+      },
+      {
+         "title":"Vítima apresenta fratura exposta (o osso está quebrado para fora). O que fazer:",
+         "number":23,
+         "result":3,
+         "options":[
+            "Garrotear o membro fazendo um torniquete;",
+            "Empurrar aquele osso para dentro;",
+            "Puxar o membro para que o osso volte para o seu lugar;",
+            "Observar se a vítima está respirando, imobilizar o membro e acalmar a vítima."
+         ]
+      },
+      {
+         "title":"São recursos de primeiros socorros para a recuperação das funções cardiorrespiratórias:",
+         "number":24,
+         "result":0,
+         "options":[
+            "Massagem cardíaca e respiração artificial;",
+            "Massagem cardíaca e imobilização do corpo;",
+            "Respiração artificial e torniquete;",
+            "Respiração artificial e colocar a criança sentada."
+         ]
+      },
+      {
+         "title":"A definição de queimaduras é bem ampla, porém, basicamente, é a lesão causada pela ação direta ou indireta produzida pela transferência de calor para o corpo. A sua manifestação varia desde bolhas (flictenas) até formas mais graves, capazes de desencadear respostas sistêmicas proporcionais à gravidade da lesão e sua respectiva extensão. Muitas vezes, os primeiros socorros prestados a vítimas, ao invés de ajudar, acabam agravando ainda mais a situação do paciente.Ao se deparar com um indivíduo que sofreu queimaduras com formação de flictena, o procedimento de primeiros socorros que deve ser realizado antes de encaminhar o paciente ao hospital é:",
+         "number":25,
+         "result":2,
+         "options":[
+            "colocar gelo sobre a flictena para amenizar o ardor;",
+            "utilizar manteiga para evitar o rompimento da flictena;",
+            "passar creme dental parar diminuir a ardência da flictena;",
+            "perfura a flictena para que a água acumulada seja liberada;",
+            "cobrir a flictena com gazes molhados para evitar a desidratação."
+         ]
+      },
+      {
+         "title":"Em casos de vítimas com queimaduras, deve-se:",
+         "number":26,
+         "result":4,
+         "options":[
+            "Passar sabão;",
+            "Estourar as bolhas, quando existirem;",
+            "Passar pasta de dente;",
+            "Fazer um curativo bem fechado;",
+            "Nenhuma das alternativas."
+         ]
+      },
+      {
+         "title":"Até a vítima receber atendimento, para tentar conter a hemorragia nasal, um dos procedimentos que deve ser adotado é:",
+         "number":27,
+         "result":0,
+         "options":[
+            "Colocar um pano ou toalha fria com gelo sobre o nariz;",
+            "Baixar a cabeça;",
+            "Colocar algodão embebido com álcool;",
+            "Deitar e elevar as pernas."
+         ]
+      },
+      {
+         "title":"Em um acidente, ocorrendo sangramento intenso, o cuidado indicado é:",
+         "number":28,
+         "result":3,
+         "options":[
+            "Deixar o sangramento parar sozinho;",
+            "Jogar bastante água oxigenada;",
+            "Desinfetar o ferimento;",
+            "Fazer compressão no local do ferimento."
+         ]
+      },
+      {
+         "title":"Quando há estiramento, ruptura, ou ambos, dos ligamentos. São causados por golpe direto. Assim o primeiro socorro a ser prestado deve ser:",
+         "number":29,
+         "result":2,
+         "options":[
+            "colocar gelo diretamente sobre a área afetada;",
+            "aquecer a área afetada;",
+            "envolver o gelo em tecido ou similar e colocar sobre a área afetada;",
+            "área afetada."
+         ]
+      },
+      {
+         "title":"São informações que você deve passar ao acionar o socorro profissional:",
+         "result":2,
+         "number":30,
+         "options":[
+            "Se você contribuiu ou não para o acidente;",
+            "O estado detalhado da situação de cada vítima do acidente;",
+            "Tipo de acidente, número aproximado de vítimas, gravidade aparente, existência de pessoas presas em ferragens, vazamento de produtos perigosos e endereço do acidente;",
+            "Todas opções estão erradas."
+         ]
+      },
+      {
+         "title":"A velocidade recomendada para as compressões torácicas é de:",
+         "number":31,
+         "result":3,
+         "options":[
+            "100 a 150/min;",
+            "80 a 90/min;",
+            "100 a 125/min;",
+            "100 a 120/min."
+         ]
+      },
+      {
+         "title":"A recomendação confirmada para as profundidades torácicas em adultos é, pelo menos:",
+         "number":32,
+         "result":0,
+         "options":[
+            "2 polegadas (5cm) e não superior a 6cm;",
+            "6 cm e não superior a 7cm;",
+            "2 cm e não superior a 5cm;",
+            "4 cm e não superior a 5cm."
+         ]
+      },
+      {
+         "title":"Existem duas classificações para as fraturas, quais são:",
+         "number":33,
+         "result":3,
+         "options":[
+            "Aberta e semi-aberta;",
+            "Aberta e exposta;",
+            "Exposta e anatômica;",
+            "Exposta e fechada;",
+            "Nenhuma das alternativas."
+         ]
+      },
+      {
+         "title":"Um acidentado apresenta um pedaço de vidro encravado no olho, o que fazer no local, antes de remover a vítima:",
+         "number":34,
+         "result":3,
+         "options":[
+            "Retirar o vidro com os dedos;",
+            "Retirar o vidro com uma pinça;",
+            "Pingar colírio anestésico/desinfetante;",
+            "Cobrir os dois olhos da vítima, tanto o machucado como ou outro;",
+            "Lavar com água gelada."
+         ]
+      }
+   ]
+}

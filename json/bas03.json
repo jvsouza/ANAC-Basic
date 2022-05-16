@@ -1,0 +1,84 @@
+{
+   "contentType":"Bas",
+   "contentIndex":3,
+   "courseunit":"Natural Sciences",
+   "questions":[
+      {
+         "title":"Uma aeronave Airbus A320 possui um MTOW de 60.000 kg numa dada temperatura. O peso dessa aeronave considerando que sua massa é o MTOW e g = 9,8 m/s é:",
+         "result":0,
+         "options":[
+            "588 kN",
+            "5.762 kN",
+            "60 kN",
+            "600 kN"
+         ],
+         "number":0
+      },
+      {
+         "title":"Considere que um mecânico verifica que o eletrólito de uma bateria chumbo ácido possui uma massa de 2,7 kg e ocupa um volume de 1,3 x 103 cm3. A densidade desse eletrólito é:",
+         "result":0,
+         "options":[
+            "2.077 g/cm^3",
+            "1.077 g/cm^3",
+            "2.733 g/cm^3",
+            "1.733 g/cm^3"
+         ],
+         "number":1
+      },
+      {
+         "title":"Uma aeronave AS355 (Esquilo) possui uma massa de 1950 kg num voo reto e nivelado a uma velocidade de 80 m/s a uma altura de 2.000 m. A energia potencial dessa aeronave é:",
+         "result":2,
+         "options":[
+            "42 MJ",
+            "201 MJ",
+            "39 MJ",
+            "29 MJ"
+         ],
+         "number":2
+      },
+      {
+         "title":"Quanto trabalho é realizado para içar um avião Embraer 110 de 6000 kg a uma altura vertical de 50 cm? (Considere g = 10 m/s2.)",
+         "result":2,
+         "options":[
+            "40 kJ",
+            "50 kJ",
+            "30 kJ",
+            "20 kJ"
+         ],
+         "number":3
+      },
+      {
+         "title":"Durante o rolamento na pista uma aeronave parte do repouso e alcança a velocidade de 60 m/s, quando então inicia a decolagem. Sabendo que a distância percorrida para decolar foi de 2.000 m em 10s, a velocidade média dessa aeronave nesse trecho é:",
+         "result":1,
+         "options":[
+            "90 m/s^2",
+            "0.9 m/s^2",
+            "9.9 m/s^2",
+            "1.0 m/s^2"
+         ],
+         "number":4
+      },
+      {
+         "title":" O manual de operação de uma aeronave afirma que é possível decolar de uma pista na Palhoça com uma massa de 30.000 kg se a temperatura for menor que 100F. Sabendo que a temperatura naquele momento era de 35C, a decolagem tem o seguinte aval de seguranção",
+         "result":0,
+         "options":[
+            "sim, porque a temperatura é menor que 100°F",
+            "sim, porque a temperatura é maior que 35°C",
+            "não, porque a temperatura é menor que 100°F",
+            "não, porque a temperatura é menor que 35°C"
+         ],
+         "number":6
+      },
+      {
+         "title":"Um cilindro sob uma pressão de 70 psi tem seu volume reduzido de 10 cm3 para 5 cm3. A nova pressão no interior do cilindro, considerando que a temperatura é constante nessa transformação é:",
+         "result":0,
+         "options":[
+            "140 psi",
+            "160 psi",
+            "240 psi",
+            "310 psi"
+         ],
+         "number":7
+      }
+   ]
+}

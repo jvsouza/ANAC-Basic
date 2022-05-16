@@ -1,0 +1,611 @@
+{
+   "contentType":"Bas",
+   "contentIndex":6,
+   "courseunit":"Basic Knowledge of Fixed and Rotary Wing Aircraft",
+   "questions":[
+      {
+         "title":"São componentes da empenagem?",
+         "result":3,
+         "options":[
+            "Ailerons, leme e profundor",
+            "Leme, estabilizadores e flapes",
+            "Compensadores, ailerons e flapes",
+            "Estabilizadores, leme e profundor."
+         ],
+         "number":0
+      },
+      {
+         "title":"O intradorso de uma asa também é chamado:",
+         "result":1,
+         "options":[
+            "Cambra superior dorsal",
+            "Cambra inferior ventral",
+            "Dorso inferior",
+            "Dorso superior"
+         ],
+         "number":1
+      },
+      {
+         "title":"O componente da resultante aerodinâmica paralela ao vento relativo denomina-se:",
+         "result":2,
+         "options":[
+            "Peso",
+            "Tração",
+            "Arrasto",
+            "Sustentação"
+         ],
+         "number":2
+      },
+      {
+         "title":"Ângulo de incidência é formado pela corda do aerofólio e o (a):",
+         "result":3,
+         "options":[
+            "Eixo vertical da aeronave",
+            "Direção do ventos relativo",
+            "Sentido do vento relativo",
+            "Eixo longitudinal da aeronave"
+         ],
+         "number":3
+      },
+      {
+         "title":"Os aviões que pousam tanto em superfícies sólidas, quantolíquidas, são classificados como:",
+         "result":0,
+         "options":[
+            "Anfíbios",
+            "Planadores",
+            "Terrestres",
+            "Hidroaviões"
+         ],
+         "number":4
+      },
+      {
+         "title":"A porcentagem média de nitrogênio na atmosfera é de:",
+         "result":2,
+         "options":[
+            "4%",
+            "21%",
+            "78%",
+            "1%"
+         ],
+         "number":5
+      },
+      {
+         "title":"Balão é considerado um:",
+         "result":0,
+         "options":[
+            "Aeróstato",
+            "Avião",
+            "Giroplano",
+            "Aeródino"
+         ],
+         "number":6
+      },
+      {
+         "title":"O trem de pouso que durante o vôo fica totalmente carenadodenomina:",
+         "result":0,
+         "options":[
+            "Escamoteável",
+            "Retrátil",
+            "Fixo",
+            "Triciclo"
+         ],
+         "number":7
+      },
+      {
+         "title":"O acionamento dos compensadores proporciona:",
+         "result":3,
+         "options":[
+            "Uma guinada",
+            "Um rolamento",
+            "Comandos sincronizados",
+            "Alívio nos comandos das superfícies"
+         ],
+         "number":8
+      },
+      {
+         "title":"O flower é um tipo de :",
+         "result":0,
+         "options":[
+            "Flap",
+            "Compensador",
+            "Slat",
+            "Slot"
+         ],
+         "number":9
+      },
+      {
+         "title":"A força que neutraliza a ação do peso durante o vôo é o (a):",
+         "result":2,
+         "options":[
+            "Tração",
+            "Arrasto",
+            "Sustentação",
+            "Empuxo"
+         ],
+         "number":10
+      },
+      {
+         "title":"Quais gases participam em 21% e 78% no ar atmosférico, respectivamente: *",
+         "result":3,
+         "options":[
+            "Gases nobres e oxigênio",
+            "Gás carbônico e nitrogênio",
+            "Nitrogênio e oxigênio",
+            "Oxigênio e nitrogênio"
+         ],
+         "number":11
+      },
+      {
+         "title":"São superfícies de comando primárias:",
+         "result":1,
+         "options":[
+            "Aileron/compensadores/leme",
+            "Aileron/profundor/leme",
+            "leme/compensador/flaps",
+            "Aileron/profundor/slat"
+         ],
+         "number":12
+      },
+      {
+         "title":"São freios aerodinâmicos:",
+         "result":3,
+         "options":[
+            "Reverso",
+            "Aileron",
+            "Speed brake",
+            "A e C estão corretas."
+         ],
+         "number":13
+      },
+      {
+         "title":"Parte que dá o formato aerodinâmico á asa: ",
+         "result":1,
+         "options":[
+            "Tirante",
+            "Nervura",
+            "Longarina",
+            "Lemes"
+         ],
+         "number":14
+      },
+      {
+         "title":"O deslocamento de ar em torno de uma asa produz uma força que empurra a asa para:",
+         "result":3,
+         "options":[
+            "Somente para Cima",
+            "Somente para Atrás",
+            "Para frente e para cima",
+            "Para atrás e para cima"
+         ],
+         "number":15
+      },
+      {
+         "title":"Os fenômenos meteorológicos mais comuns e freqüentes ocorrem na :",
+         "result":0,
+         "options":[
+            "Troposfera",
+            "Estratosfera",
+            "Ionosfera",
+            "Tropopausa"
+         ],
+         "number":16
+      },
+      {
+         "title":"O tipo de fuselagem mais empregado em aviões modernos é:",
+         "result":0,
+         "options":[
+            "Semimonocoque",
+            "Monocoque",
+            "Semi-cantilever",
+            "Cantilever"
+         ],
+         "number":17
+      },
+      {
+         "title":"O movimento de subir e descer (cabrar e picar) é realizado em torno do eixo:",
+         "result":1,
+         "options":[
+            "Longitudinal",
+            "Transversal",
+            "Vertical",
+            "Diagonal"
+         ],
+         "number":18
+      },
+      {
+         "title":"O teorema de Bernoulli é aplicado na construção do:",
+         "result":1,
+         "options":[
+            "Tubo de Pitot",
+            "Tubo de Venturi",
+            "Tubo de mercúrio",
+            "Altímetro"
+         ],
+         "number":19
+      },
+      {
+         "title":"A superfície de comando responsável pelo movimento da aeronave em torno do seu eixo lateral é denominada:",
+         "result":2,
+         "options":[
+            "Leme",
+            "Aileron",
+            "Profundor",
+            "Compensadores"
+         ],
+         "number":20
+      },
+      {
+         "title":"A força de sustentação deve-se a:",
+         "result":0,
+         "options":[
+            "Diferença de pressão entre o extradorso e o intradorso da asa",
+            "Movimento do ar na asa, tornando o avião mais leve que o ar",
+            "Diferença entra a pressão dinâmica e estática em torno da asa",
+            "Impacto do ar contra a asa"
+         ],
+         "number":21
+      },
+      {
+         "title":"Indicar a afirmativa correta: ",
+         "result":3,
+         "options":[
+            "Os flapes são superfícies de controle primárias",
+            "O profundor é um dispositivo hipersustentador",
+            "Quando os pedais ficam na posição neutra, o leme fica levemente defletido para a direita, a fim de compensar o torque da hélice.",
+            "O leme de profundidade é instalado no estabilizador horizontal"
+         ],
+         "number":22
+      },
+      {
+         "title":"Para guinar o avião, o piloto deve usar:",
+         "result":0,
+         "options":[
+            "O leme de direção",
+            "Os ailerons",
+            "Os flapes",
+            "O leme de profundidade."
+         ],
+         "number":23
+      },
+      {
+         "title":"A força de sustentação que permite ao avião voar surge devido à reação do ar sobre:",
+         "result":0,
+         "options":[
+            "As asas",
+            "O estabilizador",
+            "A fuselagem",
+            "Nenhuma das alternativas"
+         ],
+         "number":24
+      },
+      {
+         "title":"Corda é?",
+         "result":3,
+         "options":[
+            "A linha que liga as duas pontas da asa e determina a evergadura.",
+            "A linha que determina o perfil assimetrico da asa.",
+            "A linha imaginária que liga o nariz a cauda",
+            "Linha reta que liga o bordo de ataque ao bordo de fuga de um aerofólio."
+         ],
+         "number":25
+      },
+      {
+         "title":"O movimento em torno do eixo transversal chama-se:",
+         "result":0,
+         "options":[
+            "Arfagem",
+            "Bancagem",
+            "Rolamento",
+            "Inclinação"
+         ],
+         "number":26
+      },
+      {
+         "title":"O movimento de guinada é feito em torno do eixo:",
+         "result":3,
+         "options":[
+            "Longitudinal",
+            "Transversal",
+            "Lateral",
+            "Vertical"
+         ],
+         "number":27
+      },
+      {
+         "title":"A estabilidade estática é a tendência inicial de uma aeronave retornar à sua posição original quando está perturbada. Para tanto devemos considerar a estabilidade neutra como:",
+         "result":1,
+         "options":[
+            "Positiva",
+            "Negativa",
+            "Indiferente",
+            "Nenhuma das alternativas"
+         ],
+         "number":28
+      },
+      {
+         "title":"A experiência para determinar a pressão atmosférica ao nível do mar utilizou para auxilio nas pesquisas um:",
+         "result":2,
+         "options":[
+            "Tudo de pitot",
+            "Tubo de venture",
+            "Tubo de mercúrio",
+            "Túnel aerodinâmico"
+         ],
+         "number":29
+      },
+      {
+         "title":"Quais os três tipos de ondas podem ocorrer num fluxo supersônico?",
+         "result":0,
+         "options":[
+            "Ondas de choque oblíquas, onda de choque normais, ondas de expansão",
+            "Ondas estáticas e dinâmicas",
+            "Ondas mach critico, ondas mach Maximo, ondas mach mínimo",
+            "Ondas compressão, ondas de expansão"
+         ],
+         "number":30
+      },
+      {
+         "title":"Quando o rotor principal estiver em movimento devemos nos aproximar para acessar aeronave preferencialmente pela:",
+         "result":1,
+         "options":[
+            "Cauda da aeronave",
+            "Pela frente da aeronave ",
+            "Pela Lateral da aeronave",
+            "Nenhuma das alternativas"
+         ],
+         "number":31
+      },
+      {
+         "title":"Qual a característica do efeito Coriolis?",
+         "result":3,
+         "options":[
+            "É o movimento de disemetria de sustentação ",
+            "É o movimento de enflexamento das pás",
+            "É o movimento de arfagem e tangagem",
+            "É o movimento de Batimento das pás, avanço e recuo"
+         ],
+         "number":32
+      },
+      {
+         "title":"O que é um aerofólio?",
+         "result":3,
+         "options":[
+            "Qualquer superfície projetada para Mudança de passo",
+            "Qualquer superfície projetada para produzir Arrasto.",
+            "Qualquer superfície projetada com ângulo de ataque e fuga",
+            "Qualquer superfície projetada para produzir força útil ao vôo"
+         ],
+         "number":33
+      },
+      {
+         "title":"Comando dos pedais gira a aeronave em torno de qual eixo?",
+         "result":1,
+         "options":[
+            "Lateral",
+            "vertical",
+            "Longitudinal",
+            "Transversal"
+         ],
+         "number":34
+      },
+      {
+         "title":"Qual dos rotores citados abaixo tem como características transmitir vibração para cabine de comando?",
+         "result":3,
+         "options":[
+            "Rotores semi-rigidos",
+            "Rotores articulados",
+            "Rotores de cauda",
+            "Rotores Rígidos"
+         ],
+         "number":35
+      },
+      {
+         "title":"Quais os tipos de rotores?",
+         "result":3,
+         "options":[
+            "Rotores Articulados, simples, em Tandem.",
+            "Rotores transversal, rotores longitudinal",
+            "Rotores de cauda, Rotores de pedais",
+            "Rotores Rígidos, Semi-rígidos, Articulados"
+         ],
+         "number":36
+      },
+      {
+         "title":"Quais os principais comandos de vôo de um helicóptero?",
+         "result":1,
+         "options":[
+            "Força centrifuga, de sustentação, força peso",
+            "Coletivo, Cíclico, Pedais",
+            "Mache, Pedais, Manete de potencia",
+            "Comando Longitudinal, Lateral, Vertical"
+         ],
+         "number":37
+      },
+      {
+         "title":"O movimento de um helicóptero sobre seu eixo lateral é executado através do comando de:",
+         "result":1,
+         "options":[
+            "Controle de passo feito pelo coletivo",
+            "Controle de passo feito pelo cíclico",
+            "Controle de passo feito pelos pedais atuando o rotor de cauda",
+            "Controle de todos os comandos"
+         ],
+         "number":38
+      },
+      {
+         "title":"O perfil do aerofólio de um helicóptero é simétrico por ter uma ligação direta com:",
+         "result":1,
+         "options":[
+            "A corda do aerofólio",
+            "O centro de Pressão ( CP )",
+            "O Vento relativo ( VR )",
+            "Nenhuma das respostas"
+         ],
+         "number":39
+      },
+      {
+         "title":"Quais os eixos de vôo de um helicóptero?",
+         "result":0,
+         "options":[
+            "Vertical, Longitudinal, Lateral",
+            "Cíclico, Coletivo, Manche",
+            "Lateral, Vertical, transversal",
+            "Nenhuma das Alternativas"
+         ],
+         "number":40
+      },
+      {
+         "title":"Quais as caixas de transmissão existentes em um helicóptero?",
+         "result":0,
+         "options":[
+            "Caixa de transmissão principal, Caixa de transmissão intermediaria, Caixa de transmissão traseira (cx. de 90º).",
+            "Caixa de transmissão principal, (cx. de 35º), Caixa de transmissão traseira",
+            "Caixa de transmissão lateral, Caixa de transmissão traseira (cx de 45º), Caixa de transmissão principal.",
+            "Caixa de transmissão traseira (cx. de 90º), Caixa de transmissão principal, Caixa de transmissão lateral."
+         ],
+         "number":41
+      },
+      {
+         "title":"Qual a característica do efeito cone?",
+         "result":3,
+         "options":[
+            "Principal características do efeito cone é quando a perda de rotação acontece no rotor de cauda",
+            "Principal características do efeito cone é a rotação em excesso no rotor principal.",
+            "Principal características do efeito cone é a mudança de passo",
+            "Principal características do efeito cone é quando a perda de rotação acontece no rotor principal"
+         ],
+         "number":42
+      },
+      {
+         "title":"Quando temos Autorrotação fenômeno aerodinâmico onde o deslocamento horizontal mantêm a rotação?",
+         "result":1,
+         "options":[
+            "Na decolagem",
+            "Em caso de falhas e panes em helicópteros",
+            "Em situações de aproximação para pouso",
+            "Na falta de vento relativo"
+         ],
+         "number":43
+      },
+      {
+         "title":"Na decolagem O passo é aumentado, lentamente através do comando:",
+         "result":1,
+         "options":[
+            "cíclico",
+            "coletivo",
+            "pedais",
+            "Pedais e cíclico"
+         ],
+         "number":44
+      },
+      {
+         "title":"Em vôos supersônicos temperaturas mais elevadas ocasionam desgastes em ligas de alumínio e requerem a utilização de:",
+         "result":2,
+         "options":[
+            "Ligas de alumínio reforçado",
+            "Ligas de ferro fundido e aço",
+            "Ligas de titânio e aços inoxidáveis",
+            "Ligas de Ferro Molibdênio, Silício"
+         ],
+         "number":45
+      },
+      {
+         "title":"Assinale qual a alternativa errada.",
+         "result":0,
+         "options":[
+            "Os três eixos de vôo são: Lateral, vertical, e transversal",
+            "Cíclico, pedais, Coletivo são comandos de vôo.",
+            "Tração, arrasto, sustentação, peso são forças que atuam em vôo.",
+            "No helicóptero temos três caixas de transmissão"
+         ],
+         "number":46
+      },
+      {
+         "title":"Quais os tipos de rotores de cauda?",
+         "result":3,
+         "options":[
+            "Articulados, simples, em Tandem",
+            "Articulados, Coaxial, Simples",
+            "Rígidos, Semi-rígidos articulados",
+            "Rotor Convencional, Rotor do tipo Ring Guard, Fenestron"
+         ],
+         "number":47
+      },
+      {
+         "title":"Quais tipos de trem de pouso citado abaixo são utilizados em helicóptero.",
+         "result":3,
+         "options":[
+            "Semi- escamoteavel, Retrátil",
+            "skid",
+            "Escamoteavel, Triciclo",
+            "Todas as anteriores"
+         ],
+         "number":48
+      },
+      {
+         "title":"Quais os tipos de aeronaves que asseguram sua sustentação através de um rotor?",
+         "result":2,
+         "options":[
+            "Aeronaves de asa fixa e aeronaves de asa rotativa.",
+            "Giroauto, Giroflex, Rotorgiro",
+            "Autogiro, Giródino, Helicóptero",
+            "nenhuma das alternativas"
+         ],
+         "number":49
+      },
+      {
+         "title":"Os rotores são classificados em:",
+         "result":1,
+         "options":[
+            "Rotores Rígidos, Semi-rígidos articulado",
+            "Rotores simples, Coaxial, Lado a lado, em Tandem",
+            "Rotores articulados, Coaxial, Simples",
+            "Nenhuma das Alternativas"
+         ],
+         "number":50
+      },
+      {
+         "title":"Para que a fuselagem do helicóptero não gire em torno do rotor e em sentido contrário, princípio da ação e reação, qual a solução encontrada?",
+         "result":1,
+         "options":[
+            "Instalação de compensadores",
+            "Instalação de rotores de cauda",
+            "Instalação de Cx de transmisão Intermediaria",
+            "Instalação de Dispositivos anti-Vortex"
+         ],
+         "number":51
+      },
+      {
+         "title":"O movimento de rolagem em asa rotativa ocorre em qual eixo?",
+         "result":1,
+         "options":[
+            "Eixo Lateral",
+            "Eixo longitudinal",
+            "Eixo vertical",
+            "Eixo vertical e Lateral"
+         ],
+         "number":52
+      },
+      {
+         "title":"O que limita os voos supersónicos a áreas de baixíssima ou nenhuma densidade populacional.",
+         "result":0,
+         "options":[
+            "A poluição sonora devido à onda de choque.",
+            "O ar raro efeito para funcionamento dos motores",
+            "Os motores não são adptados para voar em baixa altitude",
+            "Todas as alternativas estão corretas"
+         ],
+         "number":53
+      },
+      {
+         "title":"O que é Dissimetria de sustentação:",
+         "result":0,
+         "options":[
+            "É uma sustentação desigual na área do disco rotor principal.",
+            "É uma falha que se apresenta em baixas altitudes",
+            "É uma sustentação desigual no rotor de cauda"
+         ],
+         "number":54
+      }
+   ]
+}

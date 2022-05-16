@@ -1,0 +1,348 @@
+{
+   "contentType":"Bas",
+   "contentIndex":13,
+   "courseunit":"Weight and Balance",
+   "questions":[
+      {
+         "number": 1,
+         "title":"A finalidade principal e secundaria do controle de peso e balanceamento, respectivamente é:",
+         "options":[
+            "Economia e segurança",
+            "Eficiência e economia",
+            "Segurança e eficiência",
+            "Segurança e estabilidade"
+                 ],
+         "result":"2"
+      },
+      {
+         "number": 2,
+         "title":"Uma redução da eficiência da aeronave com respeito ao teto, manobrabilidade, razão de subida, velocidade e consumo de combustível pode ser causado por:",
+         "options":[
+            "Pesagem inadequada",
+            "Nivelamento inadequado",
+            "Abastecimento inadequado",
+            "Carregamento inadequado"
+                 ],
+         "result":"3"
+      },
+      {
+         "number": 3,
+         "title":"Em que situações se faz necessário refazer a pesagem de uma aeronave:",
+         "options":[
+            "Toda vez que for carregada e quando for para a revisão",
+            "Quando for para revisão e quando atingir 1000 horas de vôo",
+            "Quando acumular muita sujeira, graxa, etc em lugares poucos acessíveis e depois de grandes reparos",
+            "Depois de grandes reparos e depois de inspeções"
+                 ],
+         "result":"2"
+      },
+      {
+         "number": 4,
+         "title":"Qual a teoria do peso e balanceamento:",
+         "options":[
+            "Teoria da relatividade",
+            "Teoria da alavanca",
+            "Teoria da balança",
+            "Teoria da gravidade"
+                 ],
+         "result":"1"
+      },
+      {
+         "number": 5,
+         "title":"O controle do peso e balanceamento consiste em comprovar ______________ o peso_____________ e____________ corretos dos limites especificados.",
+         "options":[
+            "Matematicamente, balanceamento e carregamento",
+            "Geometricamente, balanceamento, centragem",
+            "Aritmeticamente, carregamento, balanceamento",
+            "Engrossamento"
+                 ],
+         "result":"0"
+      },
+      {
+         "number": 6,
+         "title":"A instalação ou remoção de equipamentos modifica o ____________ e o ____________ da aeronave, afetando conseqüentemente a ___________ na mesma proporção.",
+         "options":[
+            "Peso operacional, alcance, capacidade",
+            "Peso vazio, C.G, carga excedente",
+            "Peso vazio, C.G carga útil",
+            "Peso normal, agilidade, confiabilidade"
+                 ],
+         "result":"2"
+      },
+      {
+         "number": 7,
+         "title":"Os dados de peso e balanceamento não podem ser obtidos em que fonte:",
+         "options":[
+            "Especificações da aeronave",
+            "Limitações operacionais da aeronave",
+            "Registro de vôo da tripulação da aeronave",
+            "Manual da aeronave"
+                 ],
+         "result":"2"
+      },
+      {
+         "number": 8,
+         "title":"O plano vertical imaginário a partir do qual todas as medidas são tomadas horizontalmente para fins de balanceamento com a aeronave em atitude de vôo nivelado denomina-se:",
+         "options":[
+            "Plano de transferência",
+            "Plano de divergência",
+            "Plano de referência",
+            "Plano de aderência"
+                 ],
+         "result":"2"
+      },
+      {
+         "number": 9,
+         "title":"O braço  é a distancia horizontal entre o equipamento:",
+         "options":[
+            "É o nariz do avião",
+            "É a cauda do avião",
+            "É o solo",
+            "É o plano de referencia"
+                 ],
+         "result":"3"
+      },
+      {
+         "number": 10,
+         "title":"braço é precedido do sinal (+) ou (-) respectivamente quando:",
+         "options":[
+            "Sua posição for para traz do plano de referencia e adiante do plano de referente",
+            "Sua posição for adiante do plano de referencia para traz do plano de referencia",
+            "Sua posição for exatamente encima do plano de referencia",
+            "Sua posição for a esquerda do plano de referencia"
+                 ],
+         "result":"0"
+      },
+      {
+         "number": 11,
+         "title":"O resultado da multiplicação de um peso pelo seu braço denomina-se:",
+         "options":[
+            "Instante",
+            "Momento",
+            "Força",
+            "Trabalho"
+                 ],
+         "result":"1"
+      },
+      {
+         "number": 12,
+         "title":"Um peso de 35 libras localizado para traz do plano de referencia tem um braço de 40 polegadas.Isto significa que:",
+         "options":[
+            "A força é de – 1400 ib.pol",
+            "O momento é de + 1400 ib.pol",
+            "O instante é de -1400 ib.pol",
+            "O trabalho é de + 1400 ib.pol"
+                 ],
+         "result":"1"
+      },
+      {
+         "number": 13,
+         "title":"O peso que esta indicado nas especificações da aeronave é que consiste do peso da aeronave mais o seu conteúdo (carga), denomina-se:",
+         "options":[
+            "Peso total",
+            "Peso calculado",
+            "Peso de trabalho",
+            "Peso máximo"
+                 ],
+         "result":"3"
+      },
+      {
+         "number": 14,
+         "title":"O peso da aeronave que é constituído pelo peso da célula, grupo motopropulsor, equipamentos necessários, lastro fixo, fluido hidráulico e óleo residuais denomina-se:",
+         "options":[
+            "Peso mínimo",
+            "Peso Vazio",
+            "Peso estrutural",
+            "Peso de estocagem"
+                 ],
+         "result":"1"
+      },
+      {
+         "number": 15,
+         "title":"Subtraindo  do peso _____________ o peso ________ obtemos a __________ da aeronave:",
+         "options":[
+            "Total, mínimo, tolerância",
+            "Maximo, vazio, carga útil",
+            "Calculado, estrutural, carga inútil",
+            "De trabalho, de estocagem, carga útil"
+                 ],
+         "result":"1"
+      },
+      {
+         "number": 16,
+         "title":"O Maximo de óleo e combustível, bagagem, piloto, co-piloto, membros da tripulação e passageiros constitui:",
+         "options":[
+            "Lotação total",
+            "Capacidade útil",
+            "Pés permitido",
+            "Carga útil"
+                 ],
+         "result":"1"
+      },
+      {
+         "number": 17,
+         "title":"O centro de gravidade de uma aeronave em sua condição de peso vazio denomina-se:",
+         "options":[
+            "Centro de gravidade de peso liquido",
+            "Centro de gravidade de peso leve",
+            "Centro de gravidade de peso vazio",
+            "Centro de gravidade descarregado"
+                 ],
+         "result":"2"
+      },
+      {
+         "number": 18,
+         "title":"Como é denominado a variação permissível entre os limites máximo e mínimo do C.G:",
+         "options":[
+            "Deslocamento do C.G",
+            "Passeio do C.G",
+            "Trabalho do C.G",
+            "Distorção do C.G"
+                 ],
+         "result":"1"
+      },
+      {
+         "number": 19,
+         "title":"Devemos carregar o C.G de modo que o C.G fique fora dos limites especificados pelo fabricante. Esta afirmativa é:",
+         "options":[
+            "Correta",
+            "Duvidosa",
+            "Errada",
+            "Correta dependendo do tipo da aeronave"
+                 ],
+         "result":"2"
+      },
+      {
+         "number": 20,
+         "title":"A secção transversal da asa, do bordo de ataque ao bordo de fuga, denomina-se:",
+         "options":[
+            "Plano de referencia",
+            "Eixo longitudinal",
+            "Corda aerodinâmica média",
+            "Braço da asa"
+                 ],
+         "result":"2"
+      },
+      {
+         "number": 21,
+         "title":"Ao se pesar uma aeronave, os pontos sobre as balanças no qual o peso está concentrado denomina-se:",
+         "options":[
+            "Pontos de apoio",
+            "Pontos de carga",
+            "Pontos de pesagem",
+            "Pontos de concentração"
+                 ],
+         "result":"2"
+      },
+      {
+         "number": 22,
+         "title":"O peso de combustível zero é o peso de uma aeronave carregada:",
+         "options":[
+            "Com combustível",
+            "Com 3/4 de capacidade de combustível",
+            "Com 1/2 da capacidade de combustível",
+            "Sem combustível"
+                 ],
+         "result":"3"
+      },
+      {
+         "number": 23,
+         "title":"A quantidade de combustível que deve ser apresentada no relatório de peso e balanceamento quando a aeronave é carregada para uma verificação extrema é denominado:",
+         "options":[
+            "Combustível útil",
+            "Combustível máximo",
+            "Combustível residual",
+            "Combustível mínimo"
+                 ],
+         "result":"3"
+      },
+      {
+         "number": 24,
+         "title":"A quantidade de óleo apresentada nas especificações da aeronave como capacidade de óleo é denominada:",
+         "options":[
+            "Óleo total",
+            "Óleo residual",
+            "Óleo nominal",
+            "Óleo funcional"
+                 ],
+         "result":"0"
+      },
+      {
+         "number": 25,
+         "title":"Ao se fazer a passagem de uma aeronave com o tanque de óleo cheio, o peso do óleo deve ser subtraído da leitura obtida para se chegar ao peso vazio real:",
+         "options":[
+            "Isto depende da densidade de óleo",
+            "Isto é correto",
+            "Isto depene da temperatura ambiente",
+            "Isto é errado"
+                 ],
+         "result":"1"
+      },
+      {
+         "number": 26,
+         "title":"Na pesagem da aeronave o peso de todos os itens extras tais como macacos e calços sobre a plataforma da balança de pesagem denomina-se:",
+         "options":[
+            "Excesso de peso",
+            "Tora",
+            "Excesso de carga",
+            "Tara"
+                 ],
+         "result":"3"
+      },
+      {
+         "number": 27,
+         "title":"A designação L2T da indicação de avião:",
+         "options":[
+            "Monomotor de treinamento",
+            "Bimotor de treinamento",
+            "Monomotor turbo hélice",
+            "Bimotor turbohélice"
+                 ],
+         "result":"3"
+      },
+      {
+         "number": 28,
+         "title":"O peso máximo de uma aeronave:",
+         "options":[
+            "É único",
+            "Depende da carga",
+            "Pode variar de acordo com a categoria que a aeronave vai operar",
+            "Depende do C.G"
+                 ],
+         "result":"2"
+      },
+      {
+         "number": 29,
+         "title":"Um equipamento na mesma posição do ponto de referencia tem o braço igual:",
+         "options":[
+            "A distancia do equipamento ao C.G",
+            "Zero",
+            "Ao abraço da C.G",
+            "Ao abraço da aeronave"
+                 ],
+         "result":"1"
+      },
+      {
+         "number": 30,
+         "title":"Os tres eixos imaginarios  do avião cruzam-se num ponto chamado:",
+         "options":[
+            "CG",
+            "Centro aerodinâmico",
+            "CP",
+            "LCM"
+         ],
+         "result":"0"
+      },
+      {
+         "number": 31,
+         "title":"O fator mais significativo que afeta o peso e balanceamento de um trike é:",
+         "options":[
+            "As asas",
+            "O peso do Piloto",
+            "Os Lastros",
+            "O local de instação do Mastro"
+         ],
+         "result":"1"
+      }
+   ]
+}

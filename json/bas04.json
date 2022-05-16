@@ -1,0 +1,222 @@
+{
+   "contentType":"Bas",
+   "contentIndex":4,
+   "courseunit": "Technical Drawing",
+   "questions":[
+      {
+         "title":"A indústria considera que o desenho técnico auxilia a:",
+         "result": 0,
+         "options":[
+            "envitar mal-entendidos e interpretações erradas",
+            "causar mal-entendidos e interpretações erradas",
+            "reafirmar a dependência inteiramente das palavras escritas",
+            "promoção de falas para trocas de ideias"
+         ],
+         "number":1
+      },
+      {
+         "title":"Qual a sigla de desenho de projeto assistido por computador onde um computador é utilizado no processo de desenho?",
+         "result": 0,
+         "options":[
+            "CADD",
+            "CAD",
+            "IMG",
+            "XML"
+         ],
+         "number":2
+      },
+      {
+         "title":"Desenho de duas ou mais peças:",
+         "result": 0,
+         "options":[
+            "Desenho de conjuntos",
+            "Desenho multiplos",
+            "Desenho coletivo",
+            "Desenho de grupo"
+         ],
+         "number":3
+      },
+      {
+         "title":"Qual a finalidade do desenhos técnicos de aeronaves?",
+         "result": 0,
+         "options":[
+            "dar base ferramental aos projetos de engenharia",
+            "afastar a engenharia da equipe técnica",
+            "guardar exclusivamente desenhos complexos",
+            "guardar exclusivamente desenhos de baixa complexidade"
+         ],
+         "number":4
+      },
+      {
+         "title":"Desenhos criados no computador não podem ser visualizados em?",
+         "result": 0,
+         "options":[
+            "mesa",
+            "tela de computador",
+            "papel impresso"
+         ],
+         "number":5
+      },
+      {
+         "title":"Devemos ter com os desenhos técnicos?",
+         "result": 0,
+         "options":[
+            "cuidado com o manuseio",
+            "realizar sempre novas dobraduras",
+            "dar preferencia a expor em locais sujos"
+         ],
+         "number":6
+      },
+      {
+         "title":"Quando se faz um desenho, quais informações o desenho tem que dar?",
+         "result": 0,
+         "options":[
+            "tamanho, forma de objeto, as parte que o compõem",
+            "horário, forma de objeto, as parte que não o compõem",
+            "tamanho, representate municipal, as parte que não  o compõem",
+            "horário, representate municipal, as parte que o compõem"
+         ],
+         "number":7
+      },
+      {
+         "title":"Desenho pode ser dividido em quantas classes?",
+         "result": 1,
+         "options":[
+            "2",
+            "3",
+            "4",
+            "5"
+         ],
+         "number":8
+      },
+      {
+         "title":"Desenhos em detalhes são:",
+         "result": 0,
+         "options":[
+            "apresentam a descrição de uma única peça",
+            "apresentam a descrição de multiplas peças",
+            "descrita por circunferências",
+            "descrita por quadrados"
+         ],
+         "number":9
+      },
+      {
+         "title":"Desenhos em conjuntos são:",
+         "result": 0,
+         "options":[
+            "apresentam uma descrição de um objeto feito em duas ou mais partes",
+            "apresentam uma descrição de um objeto feito em uma única parte",
+            "apresentam uma descrição de um objeto feito em três ou mais partes"
+         ],
+         "number":10
+      },
+      {
+         "title":"Desenhos de instalação são:",
+         "result": 0,
+         "options":[
+            "que incluem todas as especificidades gerais para um peça",
+            "que incluem algumas as especificidades gerais para um peça",
+            "que incluem da montagem na posição inicial",
+            "que incluem da montagem na posição intermediária"
+         ],
+         "number":11
+      },
+      {
+         "title":"Vista de seção se obtem:",
+         "result": 0,
+         "options":[
+            "o cortando parte do objeto para mostrar o plano de corte",
+            "uniando partes do objeto para mostrar o objeto composição",
+            "com o objeto inteiro"
+         ],
+         "number":12
+      },
+      {
+         "title":"Secção total é utilizada:",
+         "result": 0,
+         "options":[
+            "quando se busca seção não vistas exterioremente",
+            "quando se busca seção vistas exterioremente",
+            "quando se busca seção não vistas interiormente",
+            "quando se busca seção vistas interiormente"
+         ],
+         "number":13
+      },
+      {
+         "title":"Vista de meia secção dá vantagem quando:",
+         "result": 0,
+         "options":[
+            "se tem objetos simétricos",
+            "se tem objetos não-simétricos",
+            "se tem um único objeto",
+            "se tem múltiplos objetos"
+         ],
+         "number":14
+      },
+      {
+         "title":"Bloco de títulos não possui:",
+         "result": 0,
+         "options":[
+            "escala",
+            "data",
+            "nome dos desenhistas",
+            "temperatura ambiente"
+         ],
+         "number":15
+      },
+      {
+         "title":"Seção deslocada ilustra:",
+         "result": 0,
+         "options":[
+            "seção transversal de uma peça",
+            "seção logitudinal de uma peça",
+            "seção marginal de uma peça",
+            "seção diagonal de uma peça"
+         ],
+         "number":16
+      },
+      {
+         "title":"O número do desenho é para:",
+         "result": 0,
+         "options":[
+            "identificar rapidamente a impressão",
+            "preencher espaços vagos no papel",
+            "testar o lápiz e a caneta"
+         ],
+         "number":17
+      },
+      {
+         "title":"Quadros de revisões servem para:",
+         "result": 0,
+         "options":[
+            "documentar mudança",
+            "não documentar mudança",
+            "ocultar mudança",
+            "ocultar dimensões"
+         ],
+         "number":18
+      },
+      {
+         "title":"Número de zoneamento serve para:",
+         "result": 0,
+         "options":[
+            "ajudar a localizar um ponto específico",
+            "ocultar localizações estratégicas",
+            "auxiliar divisão dos bairros",
+            "compor os atividades individuais"
+         ],
+         "number":19
+      },
+      {
+         "title":"Desenho pictorial serve para:",
+         "result": 0,
+         "options":[
+            "mostrar a aparência geral de um objeto",
+            "não mostrar em projeções ortográficas",
+            "ocultar a aparência geral de um objeto",
+            "mostrar somente as projeções cartesianas"
+         ],
+         "number":20
+      }
+   ]
+}
